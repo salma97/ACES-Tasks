@@ -5,7 +5,7 @@ import random
 
 computer_random_numbers = random.sample(range(0,10),3)
 
-print(computer_random_numbers)
+#print(computer_random_numbers)
 
 while (x == '*'):
 
